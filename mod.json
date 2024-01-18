@@ -1,0 +1,19 @@
+{
+  "Name": "[Updated] Weld Tool",
+  "Author": "trexxet - Updated by MrNinja45",
+  "Description": "Fixed indestructable dot-like joint",
+  "ModVersion": "1.1",
+  "GameVersion": "1.27+",
+  "ThumbnailPath": "thumb.png",
+  "EntryPoint": "WeldToolMod.Mod",
+  "Tags": [
+    "Realistic"
+  ],
+  "Scripts": [
+    "script.cs",
+    "Weld.cs"
+  ],
+  "Active": false,
+  "UGCIdentity": null,
+  "CreatorUGCIdentity": "3131796023"
+}
